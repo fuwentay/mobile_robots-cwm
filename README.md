@@ -8,9 +8,9 @@ This course work builds on the introduction to microcontrollers (single-chip com
 Programming is in the C programming language, using the MCUXpresso interactive software development system that you used in the first-year Electrical lab. You will spend the whole week Designing, Building and Testing programs to operate the robot. You do not need to be an expert programmer, the only prior knowledge you need is P5 Computing.
 
 ### Learning Objectives
-• Use the C programming language.
-• Program a microcontroller.
-• Manipulate data at a bit level.
-• Connect to sensors such as a camera and control things such as motors.
-• Understand how to use microcontroller data sheets.
-• Use an oscilloscope to look at signals from sensors.
+- Use the C programming language.
+- Program a microcontroller.
+- Manipulate data at a bit level.
+- Connect to sensors such as a camera and control things such as motors.
+- Understand how to use microcontroller data sheets.
+- Use an oscilloscope to look at signals from sensors.
